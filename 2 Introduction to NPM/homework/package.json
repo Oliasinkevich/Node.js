@@ -1,0 +1,11 @@
+{
+  "name": "generate-password",
+  "version": "1.0.0",
+  "description": "generation password",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Olga Sinkevich",
+  "license": "ISC"
+}

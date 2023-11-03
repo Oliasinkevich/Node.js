@@ -1,0 +1,11 @@
+{
+  "name": "olia-math-package",
+  "version": "1.0.0",
+  "description": "math functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olga Sinkevich",
+  "license": "ISC"
+}
