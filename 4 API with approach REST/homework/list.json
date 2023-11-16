@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "firstName": "Vika",
+      "lastName": "Kononova",
+      "age": 28,
+      "city": "Paris"
+    },
+    {
+      "id": 3,
+      "firstName": "Ivan",
+      "lastName": "Ivanov",
+      "age": 30,
+      "city": "Moscow"
+    },
+    {
+      "id": 4,
+      "firstName": "Ivan",
+      "lastName": "Ivanov",
+      "age": 30,
+      "city": "Moscow"
+    },
+    {
+      "id": 5,
+      "firstName": "Ivan",
+      "lastName": "Ivanov",
+      "age": 30,
+      "city": "Moscow"
+    }
+  ]
+}
